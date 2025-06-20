@@ -41,9 +41,6 @@ The objective is to develop a classification model that predicts the cuisine typ
 - Deploy as a Streamlit web app for real-time predictions
 - Add more feature engineering for better accuracy
 
-## 📄 Output
-
-- A `.csv` file (`submission.csv`) containing predicted cuisines for the test data.
 
 ---
 
