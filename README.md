@@ -28,6 +28,18 @@ The objective is to develop a classification model that predicts the cuisine typ
 - Classification report
 - Cross-validation (RandomizedSearchCV)
 
+### 📊 Model Performance Comparison
+
+| Metric           | Before Tuning 🎯 | After Tuning 🔧 |
+|------------------|------------------|-----------------|
+| Accuracy         | 0.86             | 0.98            |
+| Precision (macro)| 0.86             | 0.97            |
+| Recall (macro)   | 0.74             | 0.99            |
+| F1-Score (macro) | 0.75             | 0.99            |
+
+> ✅ The fine-tuned model clearly improved performance across all key metrics using `RandomizedSearchCV`.
+
+
 ## 🧠 Key Learnings
 
 - Data preprocessing and handling missing values
