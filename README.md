@@ -56,6 +56,7 @@ The objective is to develop a classification model that predicts the cuisine typ
 
 ---
 
-👩‍💻 Developed by **Pulupula Venkata Radha Bala Chinmayee**  
-🎓 B.Tech CSE (AI&ML), PVPSIT, Vijayawada  
-🌟 #ML #DataScience #RandomForest #WomenInTech
+## 🙋‍♀️ About Me  
+Hey there! I’m **P.V.R.B. Chinmayee**—a B.Tech CSE (AI & ML) student from Vijayawada, passionately exploring the intersection of **machine learning and innovation**.
+
+📎 Let’s connect: [LinkedIn](https://www.linkedin.com/in/chinmayee-prasad-6b788a282/)  
