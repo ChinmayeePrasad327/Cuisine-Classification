@@ -6,7 +6,7 @@ A machine learning project to classify restaurants based on their cuisines using
 
 The objective is to develop a classification model that predicts the cuisine type of a restaurant given various features like location, type, and more.
 
-## 📁 Dataset Structure
+## 📁 Dataset Structure[https://www.kaggle.com/competitions/cuisine-classification-challenge/data]
 
 - `train_features.csv`: Restaurant features (e.g., location, restaurant type, etc.)
 - `train_labels.csv`: Corresponding cuisine labels
